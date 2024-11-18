@@ -97,6 +97,7 @@ a{
     border: none;
     font-size: 1rem;
     cursor: pointer;
+    text-decoration: none;
 }
 
 .sign p{
